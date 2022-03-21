@@ -1,0 +1,12 @@
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\bin\Debug\Bases de Datos 2 - Proyecto 1.exe.config
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\bin\Debug\Bases de Datos 2 - Proyecto 1.exe
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\bin\Debug\Bases de Datos 2 - Proyecto 1.pdb
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\bin\Debug\Bases de Datos 2 - Proyecto 1.xml
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases de Datos 2 - Proyecto 1.vbprojResolveAssemblyReference.cache
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases_de_Datos_2___Proyecto_1.frmLogin.resources
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases_de_Datos_2___Proyecto_1.Resources.resources
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases de Datos 2 - Proyecto 1.vbproj.GenerateResource.Cache
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases de Datos 2 - Proyecto 1.exe
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases de Datos 2 - Proyecto 1.xml
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases de Datos 2 - Proyecto 1.pdb
+C:\Users\seitr\Documents\UCEM\DB 2\Bases de Datos 2 - Proyecto 1\Bases de Datos 2 - Proyecto 1\obj\Debug\Bases_de_Datos_2___Proyecto_1.frmCrearUsuario.resources
